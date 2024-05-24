@@ -4,7 +4,7 @@
   </div>
 
 # Ewa-Checker
-discord nickim : emiwn 
+discord nick : emiwn 
   
 <p align="center">
     Discord sunucum (aktif değil direk iletişim için gelebilirsiniz): https://discord.gg/2gtQpxvRjz
